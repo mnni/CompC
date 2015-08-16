@@ -1,0 +1,3 @@
+[submodule "Components/libD"]
+	path = Components/libD
+	url = git@github.com:mnni/libD.git
